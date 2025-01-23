@@ -1,5 +1,5 @@
 package Core_Java;
-public class Demo01 {
+public class Demo001 {
     public static void main(String[] args) {
     int num1, num2;
     num1 = 10;
