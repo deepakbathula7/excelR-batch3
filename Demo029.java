@@ -25,7 +25,7 @@ class ArrayListNames {
     }
 }
 
-public class Demo29 {
+public class Demo029 {
     public static void main(String[] args) {
         ArrayListNames obj = new ArrayListNames();
         obj.addFriendNames();
