@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Demo08 {
+public class Demo008 {
     public static void main(String[] args) {
         String name;
         int age;
