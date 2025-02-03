@@ -1,4 +1,4 @@
-public class Demo05 {
+public class Demo005 {
     public static void main(String[] args) {
         String username = "user01";
         String pwd = "user_01";
