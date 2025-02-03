@@ -2,7 +2,7 @@ package Demo_java;
 
 import java.util.Scanner;
 
-public class Demo07 {
+public class Demo007 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); // Create a Scanner object
         String pwd = ""; // Initialize pwd
