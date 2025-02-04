@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Demo11 {
+public class Demo011 {
     private String name; // Changed to private for encapsulation
     private int age;     // Changed to private for encapsulation
     private String email; // Changed to private for encapsulation
