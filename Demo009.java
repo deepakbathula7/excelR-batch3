@@ -2,7 +2,7 @@ package Demo_java;
 
 import java.util.Scanner;
 
-public class Demo09 {
+public class Demo009 {
     String custName = "Deepak";
     long accountNo = 436286510; 
     Double balance = 1000000.00; 
