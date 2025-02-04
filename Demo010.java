@@ -23,7 +23,7 @@ class Customer {
     }
 }
 
-public class Demo10 {
+public class Demo010 {
     public static void main(String[] args) {
         Customer person = new Customer(); // Changed to uppercase 'Customer'
         person.acceptDetails();
