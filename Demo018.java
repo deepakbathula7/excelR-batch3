@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Demo18 {
+public class Demo018 {
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(getFibonacciSeries(4))); 
