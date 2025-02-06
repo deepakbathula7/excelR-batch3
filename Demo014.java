@@ -13,7 +13,7 @@ class UnaryDemo {
 	}
 
 }
-public class Demo14 {
+public class Demo014 {
     public static void main(String[] args) {
         UnaryDemo obj = new UnaryDemo();
         obj.UnaryOp();
