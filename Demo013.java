@@ -7,7 +7,7 @@ class TriangleAreaDemo1 {
 	}
 	
 }
-public class Demo13{
+public class Demo013{
     public static void main(String[] args) {
 		int s1 = 5, s2 = 6, s3 =7;		
         TriangleAreaDemo1 ta = new TriangleAreaDemo1();
