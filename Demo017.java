@@ -1,4 +1,4 @@
-public class Demo17 {
+public class Demo017 {
 
     public static void main(String[] args) {
         // Test cases
